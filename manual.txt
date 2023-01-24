@@ -1,0 +1,5 @@
+In order to use application, user needs to:
+1) Enable Google Drive API
+2) Create project in OAuth consent screen and set it as External
+3) Create OAuth 2.0 identifier
+2) Generate client_secrets json file and include it in project directory
